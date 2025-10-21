@@ -1,0 +1,10 @@
+# Node
+node_modules
+.env
+
+# Vite/React build
+dist
+build
+
+# OS files
+.DS_Store
